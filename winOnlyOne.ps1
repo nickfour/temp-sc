@@ -82,5 +82,3 @@ try {
         Remove-Item $tempPath -ErrorAction SilentlyContinue
     }
 }
-
-exit
